@@ -1,0 +1,18 @@
+.foto {
+    display: flex;
+    justify-content: space-around;
+}
+.foto1 {
+    opacity: 0.3;
+    
+}
+.foto2 {
+    opacity: 0.3;
+    
+}.foto1:hover {
+    opacity: 1;
+    
+}.foto2:hover {
+    opacity: 1;
+    
+}
